@@ -1,0 +1,33 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Answers any questions about the history of Twinings Tea using LangChain and Azure AI Foundry, has a rich corpus of Twinings specific data."
+requires-python = ">=3.14"
+dependencies = [
+    "anthropic>=0.25.0",
+    "azure-ai-inference>=1.0.0b9",
+    "azure-core>=1.36.0",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=4.9.3",
+    "requests>=2.31.0",
+    "ddgs>=9.9.3",
+    "crawl4ai>=0.1.7",
+    "duckduckgo-search>=6.0.0",
+    "faiss-cpu>=1.8.0",
+    "fastapi>=0.110.0",
+    "langchain>=0.1.0",
+    "langchain-anthropic>=0.1.0",
+    "langchain-cohere>=0.1.0",
+    "langchain-community>=0.0.30",
+    "langchain-core>=0.1.0",
+    "langchain-mistralai>=0.1.0",
+    "langchain-openai>=0.1.0",
+    "openai>=1.20.0",
+    "pydantic>=2.7.0",
+    "pydantic-settings>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "uvicorn>=0.29.0",
+    "langchain-azure-ai>=1.0.0",
+    "langchain-text-splitters>=1.0.0",
+    "pdfminer-six>=20251107",
+]
