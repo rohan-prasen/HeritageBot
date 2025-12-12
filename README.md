@@ -50,7 +50,7 @@ The chatbot leverages multiple AI models deployed via **Azure AI Foundry**, comb
 ## Architecture
 
 <p align="center">
-  <img src="HeritageBot Architecture.png" alt="HeritageBot Architecture" width="800"/>
+  <img src="./frontend/public/Architecture.png" alt="HeritageBot Architecture" width="800"/>
 </p>
 
 ---
