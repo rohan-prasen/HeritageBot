@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/public/Twinings-Gold-Logo.svg" alt="HeritageBot Logo" width="300"/>
+  <img src="./frontend/public/Twinings-Gold-Logo.svg" alt="HeritageBot Logo" width="300"/>
 </p>
 
 <h1 align="center">HeritageBot</h1>
@@ -50,7 +50,7 @@ The chatbot leverages multiple AI models deployed via **Azure AI Foundry**, comb
 ## Architecture
 
 <p align="center">
-  <img src="./frontend/public/Architecture.png" alt="HeritageBot Architecture" width="800"/>
+  <img src="./frontend/public/Architecture.png" alt="HeritageBot Architecture" width="400"/>
 </p>
 
 ---
