@@ -28,4 +28,4 @@ jobs:
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         with:
-          model: groq/moonshotai/kimi-k2-instruct-0905
+          model: groq/openai/gpt-oss-120b
